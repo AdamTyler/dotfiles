@@ -20,3 +20,5 @@
   - `brew install romkatv/powerlevel10k/powerlevel10k`
 - htop
   - `brew install htop`
+- git-delta diff tool
+  - `brew install git-delta`
