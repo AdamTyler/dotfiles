@@ -1,0 +1,8 @@
+alias ng='/Users/adamtyler/ngrok'
+alias rgrep='grep -rI'
+alias treenm='tree -I node_modules'
+alias gr='cd ~/repos'
+alias sortcomp='jscodeshift -t ../react-codemod/transforms/sort-comp.js'
+alias purecomp='jscodeshift -t ../react-codemod/transforms/pure-component.js'
+alias releaselog='git checkout master;git pull origin master --tags;git log $(git describe --tags --abbrev=0)..HEAD --oneline | cut -d" " -f 2-'
+alias ng='/Users/adamtyler/ngrok\ 2'
