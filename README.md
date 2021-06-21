@@ -12,6 +12,8 @@
   - `brew install nvm`
 - docker
   - `brew install --cask docker`
+- autojump
+  - `brew install autojump`
 - zsh
   - `brew install zsh`
 - oh my zsh
